@@ -1,10 +1,17 @@
-h1{
-    color: rgb(10, 22, 190);
+h1 {
+  color: rgb(10, 22, 190);
 }
-h2{
-    color: red;
+h2 {
+  color: red;
 }
+li {
+  font-size: larger;
+  color: seagreen;
+}
+<<<<<<< HEAD:polin.css
 li{
     font-size: larger;
     color: seagreen;
 }
+=======
+>>>>>>> bec8bab6b765995f054929124c0a8eabd6f0607d:index.css
