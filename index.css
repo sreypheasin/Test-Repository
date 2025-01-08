@@ -1,16 +1,10 @@
-<<<<<<< HEAD
 h1 {
-  color: darkblue;
+  color: rgb(10, 22, 190);
 }
-=======
-h1{
-    color: rgb(10, 22, 190);
+h2 {
+  color: red;
 }
-h2{
-    color: red;
+li {
+  font-size: larger;
+  color: seagreen;
 }
-li{
-    font-size: larger;
-    color: seagreen;
-}
->>>>>>> bf5e615f87cb69296411aaaf9a0b1126070a78d4
